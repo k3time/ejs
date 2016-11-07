@@ -1,0 +1,18 @@
+<html>
+<head>
+   <% include partials/head.ejs %>
+</head>
+<body>
+    <% include partials/menu.ejs %>
+    <br/><br/><br/>
+    <div class="container">
+    	<h3 class="text-center"><% include partials/headline.ejs %></h3>
+	    <br/>
+	    <% for(var i=1;i<=numberOfImages;i++) {%>
+	    	<div class="well text-center">
+	    		<img src="public/images/<%=city%>/<%=city%>-<%=i%>.jpg" class="img-responsive" />
+	    	</div>
+	    <%}%>
+    </div>
+ </body>
+</html>

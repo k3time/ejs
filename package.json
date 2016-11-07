@@ -1,0 +1,22 @@
+{
+  "name": "ilovemycity",
+  "version": "1.0.0",
+  "description": "I Love My City Application using EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "routes",
+    "ejs"
+  ],
+  "author": "kuldeep kaushik",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "ejs": "^2.3.4"
+  }
+}
