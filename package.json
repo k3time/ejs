@@ -12,7 +12,7 @@
     "routes",
     "ejs"
   ],
-  "author": "kuldeep kaushik",
+  "author": "K3TIME",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^3.3.7",
