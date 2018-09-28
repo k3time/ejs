@@ -15,7 +15,7 @@
   "author": "K3TIME",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.1.2",
     "express": "^4.14.0",
     "ejs": "^2.3.4"
   }
